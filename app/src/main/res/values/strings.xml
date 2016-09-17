@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApplicationOla</string>
+
+    <string name="passwordSave">Czy chcesz zapamiętać hasło??</string>
+    <string name="loginTexthint">Wprowadz Login</string>
+    <string name="passwordTexthint">Wprowadz haslo</string>
+    <string name="loginText">Login</string>
+    <string name="passwordText">Haslo</string>
+</resources>
